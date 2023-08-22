@@ -11,12 +11,25 @@ I am developing myself in the field of Back-End and Frontend.
 
 </br>
 
-<h3 align="left">Languages and Tools</h3>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,bootstrap,java,cs,firebase,mysql,postgres)](https://skills.thijs.gg)
+<h3 align="left">Languages</h3>
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,bootstrap,java,cs,dotnet)](https://skills.thijs.gg)
+
+
+</br>
+
+<h3 align="left"> Databases </h3>
+
+[![My Skills](https://skills.thijs.gg/icons?i=firebase,mysql,postgres)](https://skills.thijs.gg)
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
 
 </br>
+
+<h3 align="left"> Tools </h3>
+
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,visualstudio,vscode,eclipse)](https://skills.thijs.gg)
 
 
 </br>
@@ -29,6 +42,8 @@ I am developing myself in the field of Back-End and Frontend.
 
 </br>
 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 </br>
 
