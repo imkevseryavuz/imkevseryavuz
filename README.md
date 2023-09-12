@@ -36,7 +36,8 @@ I am developing myself in the field of Back-End and Frontend.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
