@@ -29,15 +29,21 @@ I am developing myself in the field of Back-End and Frontend.
 
 <h3 align="left"> Tools </h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,visualstudio,vscode,eclipse)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=visualstudio,vscode,eclipse)](https://skills.thijs.gg)
 
 
 </br>
 
+<h3 align="left"> Version Control </h3>
+
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,gitlab)](https://skills.thijs.gg)
+
+</br>
+
+
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 </div>
 
