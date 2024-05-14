@@ -15,28 +15,29 @@ I am developing myself in the field of Back-End and Frontend.
 
 <h3 align="left">Languages</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,bootstrap,java,cs,dotnet)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cs,bootstrap,dotnet)](https://skillicons.dev)
 
 
 </br>
 
 <h3 align="left"> Databases </h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=firebase,mysql,postgres)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postgres&perline=3)](https://skillicons.dev)
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
 
 </br>
 
 <h3 align="left"> Tools </h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=visualstudio,vscode,eclipse)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse&perline=3)](https://skillicons.dev)
 
 
 </br>
 
 <h3 align="left"> Version Control </h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,gitlab)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&perline=3)](https://skillicons.dev)
+
 
 </br>
 
