@@ -29,7 +29,7 @@ I am developing myself in the field of Back-End and Frontend.
 
 <h3 align="left"> Tools </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,jenkins&perline=4)](https://skillicons.dev)
 
 
 </br>
